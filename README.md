@@ -4,14 +4,14 @@
 如果你也想加入高速成長的跨國支付平台，與來自全球的工程師一起打造實體支付產品；熱愛探索支付行業的未來發展，想要取得第一手招募資訊
 我們誠摯邀請優秀的你[立即免費報名參加](https://global.cake.me/bbpos-gh)！ 
 
-## 活動資訊
+### 活動資訊
 - 活動日期： 2024/07/27（六）14:00-17:00
 - 活動地點： SkyCo Co-working Space 台北市松山區南京東路三段 287 號 9 樓
 （限額 100 人，請儘早報名。現場優先邀請 5 年工作經驗以上工程師參與；亦提供線上直播）
 - 語言： 活動將以中、英文雙語進行
 - 報名連結：https://global.cake.me/bbpos-gh
 
-## 黃金講者陣容
+### 黃金講者陣容
 - Rahul Iyer | Head of Engineering, Stripe Terminal
 - Edward Chen | CEO of BBPOS
 - Ben Lo | Co-founder and Chief Product Officer of BBPOS
